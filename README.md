@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Projeto desenvolvido durante o curso de programação web da plataforma Alura. Foi desenvolvido um site totalmente responsivo.
